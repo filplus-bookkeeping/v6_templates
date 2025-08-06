@@ -1,5 +1,6 @@
 # How to use this template
 Template for repositories for v6 allocators. Please ensure you fill out the Readme file with correct information, within 2 weeks of being accepted as an allocator. Remove the this top header to start with your allocator name
+**Once you create your copy of this repository, you MUST install the datacap bot: go to https://github.com/apps/datacap-bot, click the 'Configure' button, and select the bookkeeping repository to install the bot/application.**
 
 # Allocator Bookeeping repository for <Allocator Name>
 _Replace <Allocator Name> with your Allocator's name_
